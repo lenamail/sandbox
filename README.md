@@ -236,3 +236,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 19:57:50 - trial update
 2026-02-13 19:57:58 - changed test parameter
 2026-02-13 19:58:05 - refined test case
+2026-02-13 19:58:12 - adjusted sample data
