@@ -66,3 +66,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:03:16 - temporary logic fix
 2026-02-13 17:03:24 - minor experimental tweak
 2026-02-13 17:03:31 - tested variation
+2026-02-13 17:03:38 - refined test case
