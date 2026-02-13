@@ -223,3 +223,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 19:56:15 - temporary logic fix
 2026-02-13 19:56:22 - adjusted config
 2026-02-13 19:56:29 - adjusted sample data
+2026-02-13 19:56:37 - refined test case
