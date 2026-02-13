@@ -130,3 +130,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:11:03 - refined test case
 2026-02-13 17:11:11 - adjusted config
 2026-02-13 17:11:18 - minor experimental tweak
+2026-02-13 17:11:25 - temporary logic fix
