@@ -142,3 +142,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:12:31 - trial update
 2026-02-13 17:12:38 - trial update
 2026-02-13 17:12:45 - minor experimental tweak
+2026-02-13 17:12:53 - adjusted config
