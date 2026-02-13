@@ -88,3 +88,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:05:58 - refined test case
 2026-02-13 17:06:05 - updated sandbox logic
 2026-02-13 17:06:12 - tested variation
+2026-02-13 17:06:19 - adjusted sample data
