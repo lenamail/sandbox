@@ -151,3 +151,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:13:36 - modified prototype
 2026-02-13 17:13:44 - minor experimental tweak
 2026-02-13 17:13:51 - adjusted sample data
+2026-02-13 17:13:58 - updated sandbox logic
