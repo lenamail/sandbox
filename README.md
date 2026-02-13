@@ -250,3 +250,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 19:59:32 - refined test case
 2026-02-13 19:59:39 - changed test parameter
 2026-02-13 19:59:46 - changed test parameter
+2026-02-13 19:59:53 - updated sandbox logic
