@@ -166,3 +166,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 19:49:20 - tested variation
 2026-02-13 19:49:27 - trial update
 2026-02-13 19:49:35 - temporary logic fix
+2026-02-13 19:49:42 - adjusted sample data
