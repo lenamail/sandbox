@@ -149,3 +149,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:13:22 - refined test case
 2026-02-13 17:13:29 - temporary logic fix
 2026-02-13 17:13:36 - modified prototype
+2026-02-13 17:13:44 - minor experimental tweak
