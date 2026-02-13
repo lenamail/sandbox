@@ -85,3 +85,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:05:35 - minor experimental tweak
 2026-02-13 17:05:43 - temporary logic fix
 2026-02-13 17:05:50 - minor experimental tweak
+2026-02-13 17:05:58 - refined test case
