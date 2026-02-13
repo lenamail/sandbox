@@ -76,3 +76,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 17:04:29 - minor experimental tweak
 2026-02-13 17:04:37 - minor experimental tweak
 2026-02-13 17:04:44 - refined test case
+2026-02-13 17:04:52 - tested variation
