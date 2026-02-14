@@ -277,3 +277,4 @@ Created on 2026-02-13 10:18:20
 2026-02-13 23:55:05 - adjusted config
 2026-02-14 12:52:45 - adjusted sample data
 2026-02-14 12:52:52 - temporary logic fix
+2026-02-14 12:53:00 - refined test case
