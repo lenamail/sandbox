@@ -349,3 +349,4 @@ Created on 2026-02-13 10:18:20
 2026-02-16 09:47:16 - modified prototype
 2026-02-16 09:47:25 - tested variation
 2026-02-16 09:47:41 - modified prototype
+2026-02-16 09:47:55 - adjusted sample data
