@@ -415,3 +415,4 @@ Created on 2026-02-13 10:18:20
 2026-02-17 10:02:04 - modified prototype
 2026-02-17 10:02:24 - tested variation
 2026-02-17 10:02:51 - tested variation
+2026-02-17 10:03:00 - adjusted sample data
