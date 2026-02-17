@@ -398,3 +398,4 @@ Created on 2026-02-13 10:18:20
 2026-02-17 09:54:55 - tested variation
 2026-02-17 09:55:29 - modified prototype
 2026-02-17 09:55:37 - tested variation
+2026-02-17 09:56:32 - adjusted sample data
