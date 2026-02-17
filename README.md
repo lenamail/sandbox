@@ -402,3 +402,4 @@ Created on 2026-02-13 10:18:20
 2026-02-17 09:57:18 - modified prototype
 2026-02-17 09:58:16 - modified prototype
 2026-02-17 09:58:52 - tested variation
+2026-02-17 09:58:59 - adjusted sample data
