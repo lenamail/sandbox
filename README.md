@@ -501,3 +501,4 @@ Created on 2026-02-13 10:18:20
 2026-02-20 14:05:08 - modified prototype
 2026-02-20 14:05:24 - modified prototype
 2026-02-20 14:06:03 - tested variation
+2026-02-20 14:07:51 - adjusted sample data
