@@ -610,3 +610,4 @@ Created on 2026-02-13 10:18:20
 2026-02-26 09:39:00 - tested variation
 2026-02-26 09:39:08 - modified prototype
 2026-02-26 09:39:25 - modified prototype
+2026-02-26 09:39:33 - adjusted sample data
